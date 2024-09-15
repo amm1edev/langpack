@@ -330,7 +330,7 @@ unit_heta:
     _cls_doc: "Управляет вещами, связанными с @hikkamods_bot"
     404: "<emoji document_id=5210952531676504517>❌</emoji> <b>Модуль не найден</b>"
     not_exact: "<emoji document_id=5312383351217201533>⚠️</emoji> <b>Точного совпадения не найдено, поэтому показан ближайший результат</b>"
-    link: "╭╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╮\n╵         <b><a href=\"{url}\">Ссылка</a> на</b> <code>{class_name}</code>\n╵     ╴╴╴╴╴╴╴╴╴╴╴╴\n╵\n╵\n╰╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╯\n<code>{prefix}dlm {url}</code>"
+    link: "╭╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╮\n╵     <b><a href=\"{url}\">Ссылка</a> на</b> <code>{class_name}</code>\n╵     ╴╴╴╴╴╴╴╴╴╴╴╴\n╵\n╵\n╰╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╯\n<code>{prefix}dlm {url}</code>"
     file: ""
     args: "<emoji document_id=5210952531676504517>❌</emoji> <b>Вы должны указать аргументы</b>"
     _cmd_doc_heta: "<запрос> - Ищет модули в репозитории Heta"
