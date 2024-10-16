@@ -4,4 +4,5 @@
 
 ## Command for install this language:
 ```hikka
-.setlang https://github.com/ggoott/langpack/raw/ru.yml```
+.setlang https://github.com/ggoott/langpack/raw/ru.yml
+```
