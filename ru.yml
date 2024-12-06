@@ -1,7 +1,3 @@
-""" 🔑 Licensed by GNU GAPL v3 """
-""" 📃 https://www.gnu.org/licenses/agpl-3.0.html """
-
-
 hikka_security:
     no_command: "❌ <b>𝙲𝚘𝚖𝚖𝚊𝚗𝚍 {} 𝚗𝚘𝚝 𝚏𝚘𝚞𝚗𝚍</b>"
     permissions: "🔐 <b>𝙿𝚎𝚛𝚖𝚒𝚜𝚜𝚒𝚘𝚗𝚜 𝚏𝚘𝚛 𝚌𝚘𝚖𝚖𝚊𝚗𝚍</b> <code>{}{}</code>"
