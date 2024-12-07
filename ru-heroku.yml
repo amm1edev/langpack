@@ -290,7 +290,9 @@ hikka_config:
     libraries: "📦 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜"
     _cmd_doc_config: "𝙲𝚘𝚗𝚏𝚒𝚐𝚞𝚛𝚎 𝚖𝚘𝚍𝚞𝚕𝚎"
     _cmd_doc_fconfig: "<модуль> <настройка> <значение> - установить значение конфига для модуля"
-
+    results_ping: "╭╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╮\n╵              Ｈｉｋｋａ\n╵       ╴╴╴╴╴╴╴╴╴╴╴╴\n╵     <emoji document_id=5404687631541870522>🩹</emoji><b> 𝙿𝚒𝚗𝚐:</b> {} ms. \n╵ <emoji document_id=5404870047392867007>❣️</emoji><b> 𝚄𝚙𝚝𝚒𝚖𝚎:</b> {}.\n╰╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╯"
+    ping_hint: " "
+    
 inline_stuff:
     bot_username_invalid: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Неправильный ник бота. Он должен заканчиваться на</b> <code>bot</code> <b>и быть не короче чем 5 символов</b>"
     bot_username_occupied: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Такой ник бота уже занят</b>"
@@ -306,8 +308,6 @@ test:
     debugging_disabled: "<emoji document_id=5332533929020761310>✅</emoji> <b>Режим разработчика выключен</b>"
     suspend_invalid_time: "<emoji document_id=5210952531676504517>🚫</emoji> <b>𝙸𝚗𝚟𝚊𝚕𝚒𝚍 𝚏𝚛𝚎𝚎𝚣𝚎 𝚝𝚒𝚖𝚎! </b>"
     suspended: "<emoji document_id=5452023368054216810>🥶</emoji> <b>Бот заморожен на</b> <code>{}</code> <b>секунд</b>"
-    results_ping: "╭╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╮\n╵              Ｈｉｋｋａ\n╵       ╴╴╴╴╴╴╴╴╴╴╴╴\n╵     <emoji document_id=5404687631541870522>🩹</emoji><b> 𝙿𝚒𝚗𝚐:</b> {} ms. \n╵ <emoji document_id=5404870047392867007>❣️</emoji><b> 𝚄𝚙𝚝𝚒𝚖𝚎:</b> {}.\n╰╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╶╯"
-    ping_hint: " "
     confidential: "⚠️ <b>Уровень логов</b> <code>{}</code> <b>может содержать личную информацию, будь осторожен</b>"
     confidential_text: "⚠️ <b>𝙻𝚘𝚐𝚜 𝚕𝚎𝚟𝚎𝚕</b> <code>{0}</code> <b>𝚌𝚊𝚗 𝚑𝚊𝚟𝚎 𝚌𝚘𝚗𝚏𝚒𝚍𝚎𝚗𝚝𝚒𝚊𝚕 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗, 𝚋𝚎 𝚊𝚌𝚌𝚞𝚛𝚊𝚝𝚎</b>\n<b>𝚆𝚛𝚒𝚝𝚎</b> <code>.logs {0} force_insecure</code><b>, 𝚝𝚘 𝚜𝚎𝚗𝚍 𝚕𝚘𝚐𝚜, 𝚒𝚐𝚗𝚘𝚛𝚒𝚗𝚐 𝚝𝚑𝚒𝚜 𝚠𝚊𝚛𝚗𝚒𝚗𝚐</b>"
     choose_loglevel: "💁‍♂️ <b>𝚂𝚎𝚕𝚎𝚌𝚝 𝚕𝚘𝚐𝚜 𝚕𝚎𝚟𝚎𝚕</b>"
