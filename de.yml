@@ -502,7 +502,7 @@ loader:
   _cmd_doc_delrepo: "Lösche ein zusätzliches Repository"
   basic_auth_doc: "Authentifizierung für den Zugriff auf das Repository"
  
- translations:
+translations:
   lang_saved: "{} <b>Sprache gespeichert!</b>"
   pack_saved: "<emoji document_id=5197474765387864959>👍</emoji> <b>Übersetzungspaket gespeichert!</b>"
   incorrect_language: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Falsche Sprache angegeben</b>"
