@@ -217,7 +217,7 @@ presets:
 
 settings:
   installation: '<emoji document_id=5363805650327450240>▪️</emoji> Die Installation ist ziemlich einfach! Geben Sie einfach in das Terminal Ihres Servers ein:
-  <pre><code class="language-bash">sudo apt update &amp;&amp; sudo apt upgrade -y &amp;&amp; sudo apt install git &amp;&amp; sudo apt install python3-pip &amp;&amp; git clone https://github.com/coddrago/Hikka &amp;&amp; cd Hikka &amp;&amp; pip install -r requirements.txt &amp;&amp; python3 -m hikka</code></pre>
+  <pre><code class="language-bash">sudo apt update && sudo apt upgrade -y && sudo apt install git && sudo apt install python3-pip && git clone https://github.com/coddrago/Hikka && cd Hikka && pip install -r requirements.txt && python3 -m hikka</code></pre>
   
   <emoji document_id=5299027123913105700>😐</emoji> Wenn Sie keinen Zugriff auf sudo haben, lassen Sie einfach die anfänglichen Befehle weg.
   
